@@ -34,15 +34,7 @@ It includes a powerful **Admin Panel** for managing products, categories, orders
 - JWT Authentication
 - REST API architecture
 - Cloud image storage (optional, e.g., Cloudinary)
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](./screenshots/home.png)
-
-### 🛠 Admin Dashboard
-![Admin Dashboard](./screenshots/admin.png)
-
+- 
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
